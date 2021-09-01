@@ -1,0 +1,16 @@
+C:\LU_C_sharp\lesson9\lession9\lession9\bin\Debug\net5.0\lession9.exe
+C:\LU_C_sharp\lesson9\lession9\lession9\bin\Debug\net5.0\lession9.deps.json
+C:\LU_C_sharp\lesson9\lession9\lession9\bin\Debug\net5.0\lession9.runtimeconfig.json
+C:\LU_C_sharp\lesson9\lession9\lession9\bin\Debug\net5.0\lession9.runtimeconfig.dev.json
+C:\LU_C_sharp\lesson9\lession9\lession9\bin\Debug\net5.0\lession9.dll
+C:\LU_C_sharp\lesson9\lession9\lession9\bin\Debug\net5.0\ref\lession9.dll
+C:\LU_C_sharp\lesson9\lession9\lession9\bin\Debug\net5.0\lession9.pdb
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\lession9.csproj.AssemblyReference.cache
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\lession9.GeneratedMSBuildEditorConfig.editorconfig
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\lession9.AssemblyInfoInputs.cache
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\lession9.AssemblyInfo.cs
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\lession9.csproj.CoreCompileInputs.cache
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\lession9.dll
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\ref\lession9.dll
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\lession9.pdb
+C:\LU_C_sharp\lesson9\lession9\lession9\obj\Debug\net5.0\lession9.genruntimeconfig.cache
