@@ -1,0 +1,16 @@
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+C:\LU_C_sharp\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
